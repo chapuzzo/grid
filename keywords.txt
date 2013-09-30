@@ -1,0 +1,5 @@
+grid	KEYWORD1
+
+marca	KEYWORD2
+res	KEYWORD2
+
